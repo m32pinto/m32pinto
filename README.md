@@ -2,7 +2,7 @@
 
 **🐍 Python de leve | 🌿✨ IA com café**
 
-Apaixonado por **Prompts para IA** e por chegar perto do metal com **C**. Acredito em código limpo, comunicação clara e descanso em dia.
+Apaixonado por **Prompts para IA** e por ser produtivo com **Qwen**. Acredito em organização, comunicação clara e descanso em dia.
 
 ### 🛠️ Tech & Foco
 ![Qwen](https://img.shields.io/badge/-C-blue?logo=c&logoColor=white)

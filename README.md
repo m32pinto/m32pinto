@@ -5,10 +5,10 @@
 Apaixonado por **Prompts para IA** e por ser produtivo com **Qwen**. Acredito em organização, comunicação clara e descanso em dia.
 
 ### 🛠️ Tech & Foco
-![Qwen](https://img.shields.io/badge/-C-blue?logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-LLM%20Prompts-purple?logo=google&logoColor=white)
-![Notion](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white)
-![Pycharm](https://img.shields.io/badge/-Estudando%20Agora-green)
+![Qwen](https://img.shields.io/badge/Qwen-blue?style=for-the-badge&logo=alibabacloud&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-green?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ### 🌱 Em desenvolvimento
 - Mergulhando em **Python** & Pycharm.

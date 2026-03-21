@@ -19,4 +19,15 @@ Apaixonado por **Prompts para IA** e por ser produtivo com **Qwen**. Acredito em
 Estou aberto a colaborações e novas oportunidades.
 - 📫 **Contato:** Melhor me chamar por aqui no GitHub por enquanto.
 - 😄 **Pronomes:** Todos os pronomes são bem-vindos.
-- 😴 **Setup:** 100% Certificado em Rede.
+
+## 🛠️ Setup
+
+![Notebook](https://img.shields.io/badge/Notebook-Acer_Nitro_V15-blue?style=for-the-badge&logo=acer)
+![CPU](https://img.shields.io/badge/CPU-Intel_Core_i7-blue?style=for-the-badge&logo=intel)
+![GPU](https://img.shields.io/badge/GPU-RTX_4060-green?style=for-the-badge&logo=nvidia)
+![OS](https://img.shields.io/badge/Setup-Dual_Monitor-orange?style=for-the-badge)
+
+
+
+
+

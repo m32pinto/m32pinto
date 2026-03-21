@@ -1,19 +1,19 @@
 # 👋 E aí, eu sou o m32pinto
 
-**📍 Baseado na Nuvem | 🌿 Codando na Rede**
+**🐍 Python de leve | 🌿✨ IA com café**
 
 Apaixonado por **Prompts para IA** e por chegar perto do metal com **C**. Acredito em código limpo, comunicação clara e descanso em dia.
 
 ### 🛠️ Tech & Foco
-![C](https://img.shields.io/badge/-C-blue?logo=c&logoColor=white)
-![LLM](https://img.shields.io/badge/-LLM%20Prompts-purple?logo=google&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white)
-![Aprendendo](https://img.shields.io/badge/-Estudando%20Agora-green)
+![Qwen](https://img.shields.io/badge/-C-blue?logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/-LLM%20Prompts-purple?logo=google&logoColor=white)
+![Notion](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white)
+![Pycharm](https://img.shields.io/badge/-Estudando%20Agora-green)
 
 ### 🌱 Em desenvolvimento
-- Mergulhando em **Linguagem C** & Gerenciamento de Memória
-- Experimentando fluxos de **Engenharia de Prompts**
-- Explorando fundamentos de **Infraestrutura de TI**
+- Mergulhando em **Python** & Pycharm.
+- Experimentando organização, planejamento e fluxos de **Engenharia de Prompts**
+- Explorando automações com pesquisas na **Infraestrutura de midias sociais.**
 
 ### 💬 Vamos conectar?
 Estou aberto a colaborações e novas oportunidades.

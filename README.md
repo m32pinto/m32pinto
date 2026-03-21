@@ -17,8 +17,23 @@ Apaixonado por **Prompts para IA** e por ser produtivo com **Qwen**. Acredito em
 
 ### 💬 Vamos conectar?
 Estou aberto a colaborações e novas oportunidades.
-- 📫 **Contato:** Melhor me chamar por aqui no GitHub por enquanto.
 - 😄 **Pronomes:** Todos os pronomes são bem-vindos.
+
+## 📬 Contato
+
+> 💡 *Prefiro ser contatado por aqui no GitHub por enquanto!*
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visite-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfoliodomarcos.com.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-antonio-78a930197)
+[![YouTube](https://img.shields.io/badge/YouTube-Inscreva--se-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@se_re_ny)
+[![X](https://img.shields.io/badge/X-Siga--me-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/seu-usuario)
+[![Instagram](https://img.shields.io/badge/Instagram-Perfil-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/m32pinto)
+[![Threads](https://img.shields.io/badge/Threads-Perfil-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@marcosasp_psa)
+
+</div>
 
 ## 🛠️ Setup
 

@@ -11,7 +11,7 @@ Apaixonado por **Prompts para IA** e por ser produtivo com **Qwen**. Acredito em
 ![PyCharm](https://img.shields.io/badge/PyCharm-green?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ### 🌱 Em desenvolvimento
-- Mergulhando em **Python** & Pycharm.
+- Mergulhando em **Python** & Flutter.
 - Experimentando organização, planejamento e fluxos de **Engenharia de Prompts**
 - Explorando automações com pesquisas na **Infraestrutura de midias sociais.**
 

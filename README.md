@@ -1,19 +1,20 @@
-# 👋 E aí, eu sou o m32pinto
+# Olá, eu sou o m32pinto
 
-**🐍 Python de leve | 🌿✨ IA com café**
+**Servidor público porém em busca de oportunidades.**
 
-Apaixonado por **Prompts para IA** e por ser produtivo com **Qwen**. Acredito em organização, comunicação clara e descanso em dia.
+Bom, me chamo Marcos invisto meu tempo no desenvolvimento de: **Aplicativo, softwares e aprendizados que um dia farão a diferença no meu ambiente de trabalho**,  utilizo o **LM studio** para fazer bom uso da GPU que possuo. Acredito em organização, comunicação clara e descanso em dia.
 
-### 🛠️ Tech & Foco
-![Qwen](https://img.shields.io/badge/Qwen-blue?style=for-the-badge&logo=alibabacloud&logoColor=white)
+### 🛠️ Ferramentas que utilizo no dia a dia:
 [![Flutter](https://img.shields.io/badge/Flutter-3090E8?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-green?style=for-the-badge&logo=vscode&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white)
+[![Wireshark](https://img.shields.io/badge/Wireshark-3579D1?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
+[![LM Studio](https://img.shields.io/badge/LM%20Studio-Orange?style=for-the-badge&logo=lm-studio)](https://www.lmstudio.com/)
 
-### 🌱 Em desenvolvimento
-- Mergulhando em **Python** & Flutter.
-- Experimentando organização, planejamento e fluxos de **Engenharia de Prompts**
+### 🌱 Em constante aprendizado
+- Mergulhando em **Python** & **Flutter**.
+- Experimentando organização e **Engenharia de Prompts**.
 
 ### 💬 Vamos conectar?
 Estou aberto a colaborações e novas oportunidades.

@@ -6,14 +6,14 @@ Apaixonado por **Prompts para IA** e por ser produtivo com **Qwen**. Acredito em
 
 ### 🛠️ Tech & Foco
 ![Qwen](https://img.shields.io/badge/Qwen-blue?style=for-the-badge&logo=alibabacloud&logoColor=white)
+[![Flutter](https://img.shields.io/badge/Flutter-3090E8?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-green?style=for-the-badge&logo=vscode&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-green?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ### 🌱 Em desenvolvimento
 - Mergulhando em **Python** & Flutter.
 - Experimentando organização, planejamento e fluxos de **Engenharia de Prompts**
-- Explorando automações com pesquisas na **Infraestrutura de midias sociais.**
 
 ### 💬 Vamos conectar?
 Estou aberto a colaborações e novas oportunidades.
@@ -21,7 +21,7 @@ Estou aberto a colaborações e novas oportunidades.
 
 ## 📬 Contato
 
-> 💡 *Prefiro ser contatado por aqui no GitHub por enquanto!*
+> 💡 *Seja objetivo: m32pinto@gmail.com*
 
 <div align="center">
 
